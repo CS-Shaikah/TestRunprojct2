@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobs.neighbourlyapi1st.Disabled": "true",
+    "AzureWebJobs.myneighbourlyapiv1.Disabled": "true"
+  }
+}
